@@ -7,26 +7,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need Python 3.x to run the following code.  You can have multiple Python
-versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, and finally Seaborn as there are dependencies on packages.
+You need Python 3.x to run the following code.  You can have multiple Python versions (2.x and 3.x) installed on the same system without problems.
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
     $ sudo apt-get install python3 python3-pip
 
-Alongside Python, the SciPy packages are also required. In Ubuntu and Debian, the SciPy ecosystem can be installed by:
-
-    $ sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
-
-Finally, the latest release of Seaborn visualization package, which can be installed with pip:
-    
-    $ pip install seaborn
-
-For other Linux flavors, OS X and Windows, packages are available at:
-
 http://www.python.org/getit/  
-https://www.scipy.org/install.html  
-https://seaborn.pydata.org/installing.html#installing
 
 
 ## File descriptions
