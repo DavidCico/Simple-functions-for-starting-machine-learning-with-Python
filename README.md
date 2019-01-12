@@ -9,8 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 You need Python 3.x to run the following code.  You can have multiple Python versions (2.x and 3.x) installed on the same system without problems.
 
-$$sum_k$$
-
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
     $ sudo apt-get install python3 python3-pip
