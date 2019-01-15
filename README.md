@@ -11,7 +11,7 @@ You need Python 3.x to run the following code.  You can have multiple Python ver
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
-    $ sudo apt-get install python3 python3-pip
+    sudo apt-get install python3 python3-pip
 
 http://www.python.org/getit/  
 
