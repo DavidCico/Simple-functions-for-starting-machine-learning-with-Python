@@ -1,5 +1,5 @@
 # Simple-functions-for-starting-machine-learning-with-Python
-The current repository contains different functions implemented in Python to understand the basic steps to carry out a machine learning problem
+The current repository contains different functions implemented in Python from scratch, to understand the basic steps to carry out a machine learning problem.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 
 ## File descriptions
 
-* 'Open_conversion_data.ipynb' is the first Jupyter notebook of the series, which treats of first operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.
+* 'Open_conversion_data.ipynb' is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.
 
 ### Running the program
 
