@@ -20,11 +20,25 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 
 * 'Open_conversion_data.ipynb' is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.
 
-### Running the program
+### Running the files
 
-The code is ready to be used and just requires running the following command:
+The notebooks can be **directly opened on GitHub**. An alternative way to open the notebooks, is to run the Jupyter Notebook. This can be done by executing the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 
-    python Main.py
+    jupyter notebook
+
+This will print some information about the notebook server in your terminal, including the URL of the web application (by default, http://localhost:8888):
+
+    $ jupyter notebook
+    [I 08:58:24.417 NotebookApp] Serving notebooks from local directory: /Users/catherine
+    [I 08:58:24.417 NotebookApp] 0 active kernels
+    [I 08:58:24.417 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
+    [I 08:58:24.417 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+
+It will then open your default web browser to this URL.
+
+When the notebook opens in your browser, you will see the Notebook Dashboard, which will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started. The notebook can then be chosen by navigating in the Notebook Dashboard.
+
+For more information on how to run a specific jupyter notebook, you can go to the <a href="https://jupyter.readthedocs.io/en/latest/running.html#running">following link</a>/
 
 ## Contributing
 
