@@ -3,11 +3,11 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+<p align="justify">These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.</p>
 
 ### Prerequisites
 
-You need Python 3.x to run the following code.  You can have multiple Python versions (2.x and 3.x) installed on the same system without problems.
+<p align="justify">You need Python 3.x to run the following code.  You can have multiple Python versions (2.x and 3.x) installed on the same system without problems.</p>
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
@@ -17,8 +17,9 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 
 
 ## File descriptions
-
-* 'Open_conversion_data.ipynb' is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.
+<ul>
+<li><p align="justify">'Open_conversion_data.ipynb' is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.</p></li>
+</ul>
 
 ### Running the files
 
