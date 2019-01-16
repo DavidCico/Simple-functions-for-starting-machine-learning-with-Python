@@ -1,5 +1,5 @@
 # Simple-functions-for-starting-machine-learning-with-Python
-The current repository contains different functions implemented in Python from scratch, to understand the basic steps to carry out a machine learning problem.
+<p align="justify">The current repository contains different functions implemented in Python from scratch, to understand the basic steps to carry out a machine learning problem.</p>
 
 ## Getting Started
 
