@@ -1,5 +1,5 @@
 # Simple-functions-for-starting-machine-learning-with-Python
-<p align="justify">The current repository contains different functions implemented in Python from scratch, to understand the basic steps to carry out a machine learning problem.</p>
+<p align="justify">The current repository contains different notebooks, in which functions are implemented in Python from scratch, to understand the basic steps to carry out a machine learning problem.</p>
 
 ## Getting Started
 
@@ -18,7 +18,8 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 
 ## File descriptions
 <ul>
-<li><p align="justify">'Open_conversion_data.ipynb' is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.</p></li>
+<li>The files "iris.csv" and "winequality-white.csv" which correspond to the 2 datasets used in the different notebooks.</li>
+<li><p align="justify">"Open_conversion_data.ipynb" is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.</p></li>
 </ul>
 
 ### Running the files
