@@ -19,7 +19,7 @@ For other Linux flavors, OS X and Windows, python is availabe at http://www.pyth
 ## File descriptions
 <ul>
 <li>The files "iris.csv" and "winequality-white.csv" which correspond to the 2 datasets used in the different notebooks.</li>
-<li><p align="justify">"Open_conversion_data.ipynb" is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.</p></li>
+<li><div align="justify">"Open_conversion_data.ipynb" is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.</div></li>
 </ul>
 
 ### Running the files
