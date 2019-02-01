@@ -18,7 +18,10 @@ The Jupyter Notebook which can be installed through Python's package manager:
     pip3 install --upgrade pip
     pip3 install jupyter
 
-For other Linux flavors, OS X and Windows, python is available at http://www.python.org/getit/, and the Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
+For other Linux flavors, OS X and Windows: 
+
+Python is available at http://www.python.org/getit/
+Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 
 ## File descriptions
