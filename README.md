@@ -26,13 +26,13 @@ Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 ## File descriptions
 <ul>
-<li>The files "iris.csv" and "winequality-white.csv" which correspond to the 2 datasets used in the different notebooks.</li>
+    <li>The files "<em>iris.csv</em>" and "<em>winequality-white.csv</em>" which correspond to the 2 datasets used in the different notebooks.</li>
     
-<li><div align="justify">"Open_conversion_data.ipynb" is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.</div></li>
+<li><div align="justify">"<em>Open_conversion_data.ipynb</em>" is the first Jupyter notebook of the series, which treats of the initial operations to be done to read the data from a CSV file, modify the variable types in the different columns (features) of the dataset, as well as data re-scaling, such as normalization and standardization.</div></li>
     
-<li><div align="justify">"Split_dataset.ipynb" is the second Jupyter notebook of the series, where 2 approaches to split a dataset are implemented, to understand how the split between training and testing occur for machine learning problems.</div></li>
+<li><div align="justify">"<em>Split_dataset.ipynb</em>" is the second Jupyter notebook of the series, where 2 approaches to split a dataset are implemented, to understand how the split between training and testing occur for machine learning problems.</div></li>
 
-<li><div align="justify">"Performance_assessment.ipynb" is the third Jupyter notebook of the series in which, accuracy metrics to measure machine learning algorithms performance are introduced, and implemented in a simple way.</div></li>
+<li><div align="justify">"<em>Performance_assessment.ipynb</em>" is the third Jupyter notebook of the series in which, accuracy metrics to measure machine learning algorithms performance are introduced, and implemented in a simple way.</div></li>
 </ul>
 
 ### Running the files
