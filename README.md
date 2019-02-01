@@ -20,7 +20,7 @@ The Jupyter Notebook which can be installed through Python's package manager:
 
 For other Linux flavors, OS X and Windows: 
 
-Python is available at http://www.python.org/getit/
+Python is available at http://www.python.org/getit/    
 Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 
