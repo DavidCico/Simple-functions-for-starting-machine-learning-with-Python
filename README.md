@@ -12,8 +12,13 @@
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
     sudo apt-get install python3 python3-pip
-    
-For other Linux flavors, OS X and Windows, python is availabe at http://www.python.org/getit/.  
+
+The Jupyter Notebook which can be installed through Python's package manager:
+
+    pip3 install --upgrade pip
+    pip3 install jupyter
+
+For other Linux flavors, OS X and Windows, python is available at http://www.python.org/getit/, and the Jupyter Notebook at https://jupyter.readthedocs.io/en/latest/install.html
 
 
 ## File descriptions
